@@ -75,7 +75,7 @@ https://github.com/awslabs/serverless-application-model/blob/master/HOWTO.md
 AWS Lambda Developer Guide:
 https://docs.aws.amazon.com/lambda/latest/dg/deploying-lambda-apps.html
 
-Learn more about AWS CodeStar by reading the user guide, and post questions and
+Learn more about AWS CodeStar by reading the user guide, and post questions andda
 comments about AWS CodeStar on our forum.
 
 User Guide: https://docs.aws.amazon.com/codestar/latest/userguide/welcome.html
